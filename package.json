@@ -1,0 +1,15 @@
+{
+  "name": "q2-express-modules",
+  "version": "1.0.0",
+  "description": "Express app with fs, os, and dns modules",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
